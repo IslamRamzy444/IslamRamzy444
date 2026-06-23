@@ -1,3 +1,8 @@
+![Flutter](https://img.shields.io/badge/Flutter-3.22-blue)
+![BLoC](https://img.shields.io/badge/State%20Management-BLoC-purple)
+![Firebase](https://img.shields.io/badge/Firebase-Backend-orange)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-Yes-green)
+
 # 👋 Hi, I'm Islam Ramzy
 
 ## Civil Engineer → Flutter Developer
