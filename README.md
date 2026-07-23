@@ -69,9 +69,7 @@ My first Flutter project — 10,000+ cities, current weather, search.
 
 ## 📊 GitHub Stats
 
-![Islam's GitHub stats](https://github-readme-stats.vercel.app/api?username=IslamRamzy444&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IslamRamzy444&layout=compact&theme=dark)
+https://github-readme-streak-stats.herokuapp.com/?user=IslamRamzy444&theme=dark
 
 ---
 
